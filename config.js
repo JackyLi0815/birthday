@@ -30,12 +30,12 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始过生日咯",
+        turn_on: "吴总过生日咯",
         play: "点击播放音乐",
         bannar_coming: "请吴总继续点击",
         balloons_flying: "唉？？好像少点东西",
         cake_fadein: "生日蛋糕呢？",
-        light_candle: "蜡烛也没有？",
+        light_candle: "蜡烛点上啊！",
         wish_message: "祝：吴宜家生日快乐",
         story: "A MESSAGE FOR YOU",
     }
